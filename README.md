@@ -3,7 +3,6 @@
 ## Module1
 ## Module2
 ## Module3
-## last change
 
 This repository is for showing how Git and GitHub work
 
