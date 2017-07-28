@@ -1,6 +1,7 @@
 # Starter Web Repo
 ## Introduction
 ## Module1
+## Module2
 
 This repository is for showing how Git and GitHub work
 
